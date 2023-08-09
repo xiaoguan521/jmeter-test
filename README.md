@@ -2,6 +2,9 @@
 
 记录 jmeter 使用过程
 
+## 汉化
+在jmeter.properties 中添加 language=zh_CN
+
 ## 国密计划 实现功能如下:
 
 1. 读取本地文件
